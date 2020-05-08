@@ -96,7 +96,7 @@ service-worker: true
 page-mathjax: false
 
 # 
-remote_theme : https://github.com/Huxpro/huxpro.github.io
+remote_theme : Huxpro/huxpro.github.io
 
 # Friends
 friends: [
