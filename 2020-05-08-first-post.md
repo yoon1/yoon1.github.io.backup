@@ -1,25 +1,22 @@
 ---
-layout:     post
-title:      "Hello 2020"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2020-05-08 19:55:00
-author:     "yoon"
-header-img: "img/post-bg-2015.jpg"
-catalog: true
-tags:
-    - yoon
-    - Meta
+title: "Welcome to Jekyll!"
+date: 2020-05-08 23:56:28 -0400
+categories: jekyll update
 ---
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-> “Hi, My blog”
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-나도 이제 github 블로그를 갖게 되었다.
+Jekyll also offers powerful support for code snippets:
 
-이렇게 멋진 소스를 제공해준 Hux에게 고마움을 느낀다.
+​```python
+def print_hi(name):
+  print("hello", name)
+print_hi('Tom')
+​```
 
-2020. 05. 08 yoon 
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-
-원래 나의 블로그(https://andaeng.tistory.com/)는（이제）어떡하지
-
-<p id = "build"></p>
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
